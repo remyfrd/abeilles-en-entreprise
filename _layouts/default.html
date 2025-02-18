@@ -5,21 +5,16 @@
 
   <body>
 
-      <!-- Google Tag Manager (noscript) -->
-      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_manager_id }}"
-                        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-      <!-- End Google Tag Manager (noscript) -->
+    {%- include header.html -%}
 
-      {%- include header.html -%}
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
 
-      <main class="page-content" aria-label="Content">
-        <div class="wrapper">
-          {{ content }}
-        </div>
-      </main>
+    {%- include footer.html -%}
 
-      {%- include footer.html -%}
+  </body>
 
-    </body>
-
-  </html>
+</html>

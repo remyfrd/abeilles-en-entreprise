@@ -26,7 +26,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://abeilles-en-entreprise.fr # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/images/logo_abeilles_jaune.png
-google_manager_id: mon_id
+google_manager_id: GTM-5SJ25W9T
 on_site_year_price: 2988
 on_site_month_price: 249
 at_home_year_price: 744

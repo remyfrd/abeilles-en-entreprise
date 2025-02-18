@@ -1,0 +1,60 @@
+<footer>
+  <div class="footer-content">
+    <div class="footer-links">
+      <a href="/mentions-legales">Mentions légales</a>
+      <a href="/politique-confidentialite">Politique de confidentialité</a>
+    </div>
+    <p>&copy; 2024 Abeilles en Entreprise - Tous droits réservés</p>
+  </div>
+</footer>
+
+<script>
+  // Sélectionner toutes les sections
+  const sections = document.querySelectorAll('section');
+  const navLinks = document.querySelectorAll('nav ul li a');
+
+  // Fonction pour mettre à jour le lien actif
+  function updateActiveLink() {
+    let current = '';
+
+    sections.forEach(section => {
+      const sectionTop = section.offsetTop;
+      const sectionHeight = section.clientHeight;
+      if (pageYOffset >= sectionTop - 150) {
+        current = section.getAttribute('id');
+      }
+    });
+
+    navLinks.forEach(link => {
+      link.classList.remove('active');
+      if (link.getAttribute('href').substring(1) === current) {
+        link.classList.add('active');
+      }
+    });
+  }
+
+  // Écouter le défilement
+  window.addEventListener('scroll', updateActiveLink);
+
+  // Menu burger
+  const menuToggle = document.querySelector('.menu-toggle');
+  const navLinksMobile = document.querySelector('.nav-links');
+
+  menuToggle.addEventListener('click', () => {
+    navLinksMobile.classList.toggle('active');
+    menuToggle.classList.toggle('active');
+  });
+
+  // Fermer le menu quand on clique sur un lien
+  document.querySelectorAll('.nav-links a').forEach(link => {
+    link.addEventListener('click', () => {
+      navLinksMobile.classList.remove('active');
+      menuToggle.classList.remove('active');
+    });
+  });
+
+  function toggleAnswer(id) {
+    var answer = document.getElementById('answer-' + id);
+    answer.style.display = answer.style.display === 'none' ? 'block' : 'none';
+  }
+</script>

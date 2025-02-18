@@ -1,0 +1,24 @@
+<header>
+  <nav>
+    <a class="logo" href="/">
+      <img src="{{ '/assets/logo_abeilles_jaune.png' | relative_url }}" alt="Logo Abeilles en Entreprise">
+      <span>{{ site.title | escape }}</span>
+    </a>
+    <button class="menu-toggle">
+      <i class="fas fa-bars"></i>
+      <i class="fas fa-times"></i>
+    </button>
+    <ul class="nav-links">
+      <li><a href="/#accueil">Accueil</a></li>
+      <li class="menu-item">
+        <a href="#services">Services</a>
+        <ul class="sous-menu">
+          <li><a href="/vos-ruches-dans-vos-espaces">Vos ruches chez vous</a></li>
+          <li><a href="/vos-ruches-dans-nos-ruchers">Vos ruches chez nous</a></li>
+        </ul>
+      </li>
+      <li><a href="/demarche-rse">Démarche RSE</a> </li>
+      <li><a href="/#contact">Contact</a></li>
+    </ul>
+  </nav>
+</header>

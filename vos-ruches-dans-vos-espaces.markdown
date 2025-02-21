@@ -41,7 +41,7 @@ meta_author: "Abeilles en entreprise"
                     <h3>Pour 3 ruches</h3>
                     <h4>Prix dégressif si vous souhaitez plus de ruches</h4>
                 </div>
-                <a href="#contact" class="cta-button">Je choisis cette offre</a>
+                <a href="/#contact" class="cta-button">Je choisis cette offre</a>
             </div>
         <div class="offre-image">
             <img src="/assets/images/ruche_et_pots_transparent.png" alt="Pot avec logo entreprise">

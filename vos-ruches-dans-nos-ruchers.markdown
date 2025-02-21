@@ -28,12 +28,8 @@ meta_author: "Abeilles en entreprise"
                 <div class="offre-prix-container">
                     <div class="prix-options">
                         <div class="prix-option">
-                            <span class="prix-periode">Par an</span>
-                            <span class="prix-montant">{{site.at_home_year_price}} HT €</span>
-                        </div>
-                        <div class="prix-option">
-                            <span class="prix-periode">Par mois</span>
                             <span class="prix-montant">{{site.at_home_month_price}} HT €</span>
+                            <span class="prix-periode">Par mois</span>
                         </div>
                     </div>
                     <h3>Par ruche</h3>

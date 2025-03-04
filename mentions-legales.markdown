@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Mentions Légales
-permalink: /mentions-legales/
+meta_title: "- Mentions Légales"
+meta_description: "Installation et gestion de ruches en entreprise. Contribuez à la biodiversité avec nos solutions clé en main d'apiculture pour les entreprises."
+meta_keywords: "ruches entreprise, apiculture entreprise, RSE abeilles, biodiversité entreprise, installation ruches professionnelles"
+meta_author: "Abeilles en entreprise"
 ---
 
 <main class="legal-content">

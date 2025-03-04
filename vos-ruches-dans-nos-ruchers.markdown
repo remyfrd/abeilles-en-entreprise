@@ -45,5 +45,5 @@ meta_author: "Abeilles en entreprise"
 
 <section class="offres-autre">
     <h2>Vous avez de l’espace disponible (parc, toiture, térrasse...) ?</h2>
-    <p>Optez pour notre offre de <a href="/vos-ruches-dans-vos-espaces">ruches hébergées dans vos espaces</a> ! Vous bénéficiez des mêmes avantages tout en laissant nos experts s’occuper de l’installation et de l’entretien.</p>
+    <p>Optez pour notre offre de <a href="/vos-ruches-dans-vos-espaces.html">ruches hébergées dans vos espaces</a> ! Vous bénéficiez des mêmes avantages tout en laissant nos experts s’occuper de l’installation et de l’entretien.</p>
 </section>

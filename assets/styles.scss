@@ -235,7 +235,6 @@ footer {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 2rem;
     margin-bottom: 4rem;
-    align-items: center;
 }
 
 .offre-card {
@@ -377,6 +376,10 @@ footer {
 
     .offre-card h3 {
         font-size: 1.8rem;
+    }
+
+    .offres-grid {
+        grid-template-columns: none;
     }
 }
 

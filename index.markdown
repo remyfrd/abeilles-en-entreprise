@@ -33,7 +33,7 @@ meta_author: "Abeilles en entreprise"
     <h2>Nos Services</h2>
     <p class="section-subtitle">Choisissez la solution qui correspond le mieux à votre entreprise</p>
     <div class="services-hero-simple">
-        <img src="/assets/images/ruche_et_pots_transparent.png" alt="Pot avec logo entreprise">
+        <img src="/assets/images/ruche_et_pots_transparent2.png" alt="Pot avec logo entreprise">
     </div>
     <div class="offres-grid">
         <div class="offre-card">

@@ -38,7 +38,7 @@ meta_author: "Abeilles en entreprise"
                 <a href="/#contact" class="cta-button">Je choisis cette offre</a>
             </div>
         <div class="offre-image">
-            <img src="/assets/images/ruche_et_pots_transparent.png" alt="Pot avec logo entreprise">
+            <img src="/assets/images/ruche_et_pots_transparent2.png" alt="Pot avec logo entreprise">
         </div>
     </div>
 </section>

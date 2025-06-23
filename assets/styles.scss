@@ -91,12 +91,14 @@ section a {
     align-items: center;
     text-align: center;
     background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
-    url('./images/vu_du_lieu.jpg') center/cover no-repeat;
+    url('./images/image_entreprise.jpg') center/cover no-repeat;
     color: white;
     margin: 0;
 }
 
 .hero.hero-offer-page {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+    url('./images/vu_du_lieu.jpg') center/cover no-repeat;
     height: 20vh;
 }
 

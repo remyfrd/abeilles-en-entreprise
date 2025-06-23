@@ -22,8 +22,14 @@ meta_author: "Abeilles en entreprise"
                     <li><strong>Installation de 3 ruches minimum</strong> sur vos espaces verts (parc, toiture, terrasse...)</li>
                     <li><strong>Entretien complet</strong> : suivi des colonies, soins aux abeilles et récolte du miel.</li>
                     <li><strong>Mise en avant de votre engagement</strong> : pancarte avec le logo de votre entreprise sur chaque ruche.</li>
-                    <li><strong>Production de miel personnalisée</strong> : 150 pots de miel (250g) issus de vos ruches.</li>
-                    <li><strong>Animation apicole</strong> : une intervention pédagogique pour sensibiliser vos équipes.</li>
+                    <li><strong>Production de miel personnalisée</strong> : 50 pots de miel (250g) par ruche issus de votre ruche.</li>
+                    <li><strong>Deux animations apicoles au choix avec vos collaborateurs</strong> : 
+                        <ul style="list-style: none">
+                            <li>Dégustation de miel</li>
+                            <li>Ouverture de ruche en groupe</li>
+                            <li>Extraction de miel</li>
+                        </ul>
+                    </li>
                     <li><strong>Certificat RSE</strong> : attestant de votre engagement en faveur des abeilles.</li>
                     <li><strong>Rapports d’intervention de l’apiculteur</strong> : vous informant des soins apportés et des actions menées.</li>
                 </ul>
